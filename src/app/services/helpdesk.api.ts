@@ -1,1 +1,1 @@
-export const HELPDESK_API : string = 'http://localhost:8080'
+export const HELPDESK_API: string = 'http://localhost:8080';
